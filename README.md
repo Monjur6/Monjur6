@@ -12,5 +12,4 @@ Skills: C++, C#, JAVA, Python, PHP, ASP .Net framework, Spring framework, HTML, 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Monjur6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mirmonjur/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mir.moniur.morshed)  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:monjurmorshed386@gmail.com)  
 ![Profile views](https://gpvc.arturio.dev/Monjur6)  
