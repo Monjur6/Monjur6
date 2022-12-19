@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mir Monjur Morshed</h1>
 <h3 align="center">I am a student of computer science and engineering and am passionate about working in the field of computer science.</h3>
 <h3 align="left">Languages and Tools:</h3>
-<img align="right" alt="coding" height="260" width="360" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align="right" alt="coding" height="240" width="340" src="https://github.com/Monjur6/Monjur6/blob/main/anna-havrylyukh-.gif">
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
