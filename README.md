@@ -1,10 +1,7 @@
-
-<img alt="coding" height="200" width="1000" src="https://github.com/Monjur6/Monjur6/blob/main/J4o.gif">
+<img alt="coding" height="200" width="900" src="https://github.com/Monjur6/Monjur6/blob/main/J4o.gif">
 <h1 align="center">Hi 👋, I'm Mir Monjur Morshed</h1>
-
 <h3 align="center">I am a student of computer science and engineering and am passionate about working in the field of computer science.</h3>
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -34,7 +31,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=monjur6&label=Profile%20views&color=0e75b6&style=flat" alt="monjur6" /> </p>
 <table>
   <tr>
-<th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monjur6&show_icons=true&locale=en&layout=compact" alt="monjur6" /></p></th>
+<th width="330"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monjur6&show_icons=true&locale=en&layout=compact" alt="monjur6" /></p></th>
 <th><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monjur6&show_icons=true&locale=en" alt="monjur6" /></p></th>
 <th><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=monjur6&" alt="monjur6" /></p></th>
   </tr>
