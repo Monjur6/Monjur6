@@ -1,4 +1,4 @@
-<img alt="coding" height="205" width="1000" src="https://github.com/Monjur6/Monjur6/blob/main/J4o.gif">
+<img alt="coding" height="205" width="950" src="https://github.com/Monjur6/Monjur6/blob/main/J4o.gif">
 <h1 align="center">Hi 👋, I'm Mir Monjur Morshed</h1>
 <h3 align="center">I am a student of computer science and engineering and am passionate about working in the field of computer science.</h3>
 <h3 align="left">Languages and Tools:</h3>
