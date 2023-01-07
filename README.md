@@ -4,6 +4,7 @@
 <h3 align="left">Skills:</h3>
 <img align="right" alt="coding" height="230" width="340" src="https://github.com/Monjur6/Monjur6/blob/main/anna-havrylyukh-.gif">
 <p align="left">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e0dd03e-00ea-4ea8-87fa-ad149b6b76d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
