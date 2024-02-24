@@ -1,6 +1,6 @@
 <img alt="coding" height="205" width="950" src="https://github.com/Monjur6/Monjur6/blob/main/J4o.gif">
 <h1 align="center">Hi 👋, I'm Mir Monjur Morshed</h1>
-<h3 align="center">I am a student of computer science and engineering and am passionate about working in the field of computer science.</h3>
+<h3 align="center">As a computer science professional, I bring strong problem-solving skills and a passion for creative projects.</h3>
 <h3 align="left">Skills:</h3>
 <img align="right" alt="coding" height="230" width="340" src="https://github.com/Monjur6/Monjur6/blob/main/anna-havrylyukh-.gif"> 
 <p align="left">
